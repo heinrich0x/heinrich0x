@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heinrich0x, but you call me 0x4hein, sure hahaha
+- 👋 Hi, I’m @heinrich0x, but you can call me 0x4hein, sure hahaha
 - 👀 I’m interested in software engineering, computer in general, apis, vms 
 - 🌱 I’m currently learning OS, deepening in C/C++...
 - 💞️ I’m looking to collaborate on open source software, operating systems, collaborate on projects in any language, mainly C/C++ and Lua
